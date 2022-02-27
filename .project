@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>cloud-config-git-repo</name>
+			<type>2</type>
+			<location>D:/STS/cloud-config-git-repo</location>
+		</link>
+	</linkedResources>
 </projectDescription>
